@@ -1,0 +1,6 @@
+{
+  "name": "Mentor Math",
+  "description": "Міжнародна онлайн-школа математики англійською мовою за методологією CLIL для підлітків 12–17 років.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
